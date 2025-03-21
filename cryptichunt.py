@@ -915,8 +915,8 @@ with col1:
 
 # Add the image to the second column
 with col2:
-    image_url = "https://www.google.com/logos/doodles/2025/nowruz-2025-6753651837110627-l.webp"  # Replace with your image URL
-    st.image(image_url, width=100)  # Adjust the width as needed
+    image_url = "https://i.imghippo.com/files/fEwT6944z.png"  # Replace with your image URL
+    st.image(image_url, width=158)  # Adjust the width as needed
 
 # Session state for user authentication and mode
 if "username" not in st.session_state:
